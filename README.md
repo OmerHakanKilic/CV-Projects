@@ -9,4 +9,21 @@ A repository to showcase my CV projects.
 
 ## Game of Life clone
 - This project is made for Linux
+- It is possible to compile by running compile.sh if gcc and raylib are installed
+- This is a GUI application
+- This application accepts command line arguments:
+  - 1 Gosper Gun pattern,
+  - 2 Pulsar pattern,
+  - 3 Diehard pattern
+  - 4 Acorn pattern
+- This project is a recreation of Conway’s Game of Life cellular automata
+
+## Idle Miner
+- This project is made for Android
+- .apk file is runnable in android or emulators
+- This is a game
+- 3 different control schemes implemented and changable through settings
+
+## A Fighter Jet Game 
+- This project is runnable in Linux, Mac and Windows
 - 
