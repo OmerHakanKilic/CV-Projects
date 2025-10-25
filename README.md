@@ -23,7 +23,3 @@ A repository to showcase my CV projects.
 - .apk file is runnable in android or emulators
 - This is a game
 - 3 different control schemes implemented and changable through settings
-
-## A Fighter Jet Game 
-- This project is runnable in Linux, Mac and Windows
-- 
